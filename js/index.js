@@ -1,7 +1,7 @@
 /*CAROuSEL AUTOMATICO USANDO UMA DIV COM ID*/
 let img = document.getElementById('img');
 
-let image = ['supernatural.jpg', 'hustlers.jpg', 'promo.jpg', 'great.jpg', 'boys.jpg', 'people.jpg'];
+let image = ['supernatural.jpg', 'hustlers.jpg', 'promo.jpg', 'great.jpg', 'boys.jpg', 'people.jpg', '47.jpg'];
 
 let i = 0;
 
